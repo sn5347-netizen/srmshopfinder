@@ -1,2 +1,2 @@
 # srmshopfinder
-It is a website developed by our team with CSS, Javascript, HTML in the frontend and Java in the backend. 
+It is a website developed by our team in order to find shops within the campus and to help with the menus and items
